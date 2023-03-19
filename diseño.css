@@ -1,0 +1,33 @@
+
+
+
+
+
+*{font-family: sans-serif ;}
+
+body{
+    background-color: black;
+    }
+
+.menu{
+    color: #fff ;
+    /*margin-block-end: -110px;*/
+    height: 20%; width: 20%;
+    float: left;
+    }
+
+li:hover{color: #c3c3c3; cursor: pointer;}
+
+.caja h1 {margin: 0%; color: white; position: absolute; text-align: center;  padding: 0px 100px ;}
+
+.caja{float: left; margin: 0%; height: 25%; width: 80%; }
+
+p{  text-align: left;  padding: 40px 100px ; margin: 0%;}
+
+#p1{background-color: cornflowerblue; color: white;}
+#p2{background-color: yellow; color: white;}
+#p3{background-color: orange; color: white;}
+#p4{background-color: red; color: white;}
+
+
+
